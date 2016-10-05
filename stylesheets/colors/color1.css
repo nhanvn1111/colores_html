@@ -1,0 +1,390 @@
+body,
+.widget-tags .tags a,
+.tabs .menu-tab li.active a,
+.price-table,
+.contact-form .submit-wrap input.btn-colores,
+.logo-client.white-hover .bx-controls .icons-angle-left:hover,
+.logo-client.white-hover .bx-controls .icons-angle-right:hover {
+    background-color: #f4f4f4;
+}
+
+body,
+.top ul.contact-info li:before,
+.roll-row article.post h2 a,
+.widget-recent-post p,
+.tabs .menu-tab li.active a,
+.widget-categories a,
+.about-persons .persons .about-info h5.about-name,
+.roll-row.portfolio-posts .about-info,
+.roll-row.portfolio-posts .slider .about-info .name,
+.roll-row.portfolio-posts .slider .about-info .license,
+.roll-row.portfolio-posts .slider .slides .about-info span.note a,
+a.read-more,
+.experts a,
+.newsflash a,
+.slide-left a.link:hover,
+.slide2 .slide-right h3,
+.slide2 .slide-right p.content,
+.slide2 .slide-right a.link,
+.slide3 .slide-right a.link:hover {
+    color: #011d27;
+}
+
+::-moz-selection,
+::-webkit-selection,
+::selection { 
+	background-color: #000; 
+}
+
+a,
+a:focus,
+.btn-menu,
+.roll-row .titlebox .maintitle .important,
+.gallery .carousel ul.flex-direction-nav li:hover a i,
+.gallery .sub-carousel ul.flex-direction-nav li:hover a i,
+.widget-recent-post span.date,
+.widget-testimonial span.author,
+.widget-categories a:hover,
+.widget-twitter ul.tweet_list a:hover,
+.footer-menu ul li a:hover,
+.roll-row .about-teams .about-info p.about-regency,
+.about-persons .persons .about-info p.about-regency,
+.roll-row.portfolio-posts .slider .slides .about-info span.note a:hover,
+.contact-info i.icon,
+.box-error h1,
+.purchase.white .purchase-left span.content,
+.head-slide .control button {
+    color: #12d11f;
+}
+
+a:hover,
+.gallery .carousel ul.flex-direction-nav li a i,
+.gallery .sub-carousel ul.flex-direction-nav li a i {
+    color: #0f1521;
+}
+
+.top,
+#mainnav ul li ul,
+.menu2 > li:before,
+.roll-row .menu-items,
+.socials,
+.socials li a,
+.roll-row .share-post,
+.categories .cate-items a:hover,
+.roll-row .meta-bottom a.read-more:hover,
+.roll-row .pagging .page-prev:hover,
+.roll-row .pagging .page-prev:hover + span,
+.roll-row .pagging .page-next:hover,
+.roll-row .pagging .page-next:hover + span,
+.widget-testimonial .bx-controls .icons-angle-left:hover,
+.widget-testimonial .bx-controls .icons-angle-right:hover,
+.widget-flickr .flickr-controls .flickr-prev:hover,
+.widget-flickr .flickr-controls .flickr-next:hover,
+.tabs .menu-tab li a:hover,
+button.btn-colores,
+.footer-social,
+.footer-copy,
+.comment-form .submit-wrap input.btn-colores,
+.progress-animate,
+.roll-row.portfolio-posts button.load:hover,
+.roll-row.portfolio-posts .portfolio-direc,
+.box-services.box-fill .icon,
+.box-services:hover .icon,
+.box-services.box-fill a.read-more,
+.contact-form .submit-wrap input.btn-colores,
+.logo-client .bx-controls .icons-angle-left,
+.logo-client .bx-controls .icons-angle-right,
+.testimonial-slide.large .owl-prev,
+.testimonial-slide.large .owl-next,
+.slide-left h3.sub-title,
+.slide3 .slide-right h3.sub-title {
+    background-color: #12d11f;
+}
+
+.header,
+#mainnav ul li ul li a,
+.tabs .menu-tab li a,
+.widget-search .text-search,
+.roll-row .entry-post blockquote,
+.post .info,
+.roll-row .about-teams .featured-post.gallery ul.slides li,
+.progress-bar,
+.roll-row.services-posts a.more:hover,
+.box-services.box-fill:hover,
+.box-services:hover .icon.left,
+body.error-page,
+.price-table:hover .price,
+.price-table:hover .btn-colores,
+.price-table.active .price,
+.price-table.active .btn-colores,
+.purchase.white .purchase-right a:hover,
+.testimonial,
+.testimonial-detail blockquote,
+.testimonial-slide.large .owl-next:hover,
+.testimonial-slide.large .owl-prev:hover,
+.slide-left h3.title,
+.head-slide .control,
+.slide3 .slide-right h3.title,
+.slide.contact .contact-form input.btn-colores,
+.purchase .purchase-right a,
+.roll-row .menu-items ul.left-items li a:hover {
+    background-color: #011d27;
+}
+
+#mainnav-mobi ul li {
+   border-top: 1px solid rgba(18, 209, 31, 0.6);
+}
+
+#mainnav-mobi > ul > li > ul > li,
+#mainnav-mobi > ul > li > ul > li > ul > li {
+   border-top: 1px solid rgba(18, 209, 31, 0.3);
+}
+
+#mainnav-mobi ul.sub-menu > li > a {
+   border-top-color: rgba(255,255,255,.1);
+}
+
+.go-top,
+.roll-row .overlay {
+    background-color: #161625;
+}
+
+@media only screen and (max-width: 767px) {
+    .header {
+        background-color: #011d27 !important;
+    }
+}
+
+.roll-row .menu-items ul.left-items li a,
+.roll-row .menu-items .button-search,
+.socials li a,
+.widget-search .button-search,
+.footer-social .socials li a,
+.portfolio-projects .portfolio-direc a {
+    background-color: #11c21d;
+}
+
+.roll-row .menu-items ul.left-items li a:hover,
+.roll-row .menu-items ul.left-items li a.active,
+.socials li a.active,
+.socials li a:hover,
+.footer-social .socials li a.active,
+.footer-social .socials li a:hover,
+.box-services.box-fill a.read-more:hover,
+.roll-row .menu-items ul.left-items li a:hover {
+    background-color: #14971c;
+}
+
+.roll-row article.post:hover .gallery .post-hover img,
+.flickr-photos img,
+.comment .avatar img,
+.comment-meta,
+.comment-form .input-wrap input,
+.comment-form .textarea-wrap textarea,
+.roll-row.portfolio-posts .about-img img,
+.newsflash .img,
+.roll-row .featured-post img {
+    border-color: #e4e4e4;
+}
+
+.roll-row article.post:hover .featured-post img,
+.roll-row .post-overlay,
+.roll-row article.post .gallery .carousel .post-hover:hover img,
+.roll-row article.post .gallery .sub-carousel .post-hover:hover img,
+.flickr-photos img:hover,
+blockquote.block-left,
+blockquote.block-right,
+.post .avatar img,
+.box-services .icon,
+.testimonial-detail .img-user img,
+.head-slide .control button,
+.testimonial-detail blockquote,
+.roll-row .meta-bottom a.read-more:hover {
+    border-color: #12d11f;
+}
+
+.tabs .menu-tab li.active a,
+.tabs .content-tab,
+.box-services.box-fill:hover,
+.box-services:hover .icon.left,
+.purchase.white .purchase-right a:hover,
+.newsflash a,
+.slide-left a.link:hover,
+.slide2 .slide-right a.link,
+.slide3 .slide-right a.link:hover,
+.roll-row .post-overlay-trans,
+.experts a {
+    border-color: #011d27;
+}
+
+.roll-row .meta-bottom a.read-more,
+.roll-row .pagging .page-prev,
+.roll-row .pagging .page-prev + span,
+.roll-row .pagging .page-next,
+.roll-row .pagging .page-next + span,
+.widget-testimonial .bx-controls .icons-angle-left,
+.widget-testimonial .bx-controls .icons-angle-right,
+.widget-flickr .flickr-controls button,
+.widget-tags .tags a.active,
+.widget-tags .tags a:hover,
+button.btn-colores:hover,
+.footer-about,
+.widget-brand.widget-over,
+.comment-form .submit-wrap input.btn-colores:hover,
+.roll-row.portfolio-posts button.load,
+.contact-form .submit-wrap input.btn-colores:hover,
+.logo-client .bx-controls .icons-angle-left:hover,
+.logo-client .bx-controls .icons-angle-right:hover,
+.categories .cate-items a {
+    background-color: #0f1521;
+}
+
+.widget-tags .tags a,
+.widget-newsletter .notification_ok,
+.widget-newsletter .input input:focus,
+.comment-meta,
+.comment-meta .author a,
+.comment-form .input-wrap input:focus,
+.contact-form .input-wrap input:focus,
+.roll-row.blog-posts .pagging {
+    color: #959595;
+}
+
+.widget-recent-post p:hover,
+.widget-lastest-post p:hover {
+    color: #11c21d;
+}
+
+.widget-newsletter .input input:focus,
+.comment-form .input-wrap input:focus,
+.comment-form .textarea-wrap textarea:focus,
+.contact-form .input-wrap input:focus,
+.contact-form .textarea-wrap textarea:focus,
+.widget-tags .tags a.active,
+.widget-tags .tags a:hover {
+   border-color: #0f1521;
+}
+
+.tabs .comments p a,
+.tabs .pop-posts .text a,
+.tabs .tags a {
+    color: #2d3340;
+}
+
+.toggle .toggle-title:before,
+.tabs .comments p {
+    color: #b7b7b7;
+}
+
+.widget-twitter .tweet_time a,
+.widget-lastest-post span.date {
+    color: #414c62;
+}
+
+.footer-about,
+.widget-lastest-post p,
+.roll-row .about-teams .about-info h5.about-name,
+.box-services.box-fill:hover .content,
+.testimonial-detail blockquote,
+.testimonial-detail span.name,
+.widget-twitter .tweet_text,
+.widget-twitter .tweet_text a {
+    color: #bcd7e0;
+}
+
+.widget-brand,
+.footer-menu,
+.testimonial-detail blockquote,
+.testimonial-slide.large .owl-prev:hover,
+.testimonial-slide.large .owl-next:hover,
+.widget-twitter ul.tweet_list li {
+    border-color: #033243;
+}
+
+.widget-newsletter .notification_error {
+    color: #d11212;
+}
+
+.widget-brand .spacing,
+.spacing-dark,
+.testimonial-slide.large .owl-nav:before {
+    background-color: #033243;
+}
+
+.roll-row .meta-bottom .categories,
+.footer-menu {
+    background-color: #151e32;
+}
+
+.about-persons .persons .about-info,
+.box-services.box-fill,
+.roll-row.skill-bar.dark,
+.price-table,
+.price-table ul li,
+.price-table ul li:first-child,
+.toggle .toggle-content,
+.roll-row.what-colores,
+.roll-row.newsflash,
+.about-persons .persons img {
+    border-color: #d6d6d6;
+}
+
+.box-services:hover a.read-more,
+.box-services .icon.left,
+.box-services.box-fill:hover .icon.left,
+.price-table .price,
+.toggle .toggle-title:before,
+.roll-row.services-posts a.more {
+    background-color: #1dd329;
+}
+
+.box-services.box-fill a.read-more,
+.experts a:hover,
+.newsflash a:hover,
+.box-services:hover a.read-more {
+    border-color: #1dd329;
+}
+
+.testimonial-detail:hover .img-user img,
+.box-services.box-fill a.read-more:hover {
+    border-color: #14971c;
+}
+
+.experts a:hover,
+.newsflash a:hover,
+.purchase .purchase-right a {
+    color: #1dd329;
+}
+
+.testimonial-detail blockquote:before {
+    border-color: #033243 transparent transparent transparent;
+}
+
+.testimonial-detail blockquote:after {
+    border-color: #011d27 transparent transparent transparent;
+}
+
+.testimonial-slide.large .testimonial-detail blockquote:before {
+    border-color: #033243 transparent transparent #033243;
+}
+
+.testimonial-slide.large .testimonial-detail blockquote:after {
+    border-color: #011d27 transparent transparent #011d27;
+}
+
+.toggle .toggle-title,
+.roll-row.what-colores {
+    border-color: #eeeeee;
+}
+
+.roll-row.what-colores {
+    color: #191919;
+}
+
+.slide.contact .slide-left {
+    background-color: rgba(1, 29, 39, 0.7);
+}
+
+.testimonial-detail blockquote {
+    border-left-color: #12d11f;
+}

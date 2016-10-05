@@ -1,0 +1,24 @@
+/* ======================================================================== */
+/* ! Font
+/* ======================================================================== */
+@font-face {
+   font-weight: normal;
+   font-style: normal;
+   font-family: 'Pacifico';
+   src: url('../font/pacifico.eot');
+   src: url('../font/pacifico.eot?#iefix') format('eot'), 
+        url('../font/pacifico.woff') format('woff'), 
+        url('../font/pacifico.ttf') format('truetype'), 
+        url('../font/pacifico.svg') format('svg');
+}
+
+@font-face {
+   font-weight: normal;
+   font-style: normal;
+   font-family: 'vladimir script';
+   src: url('../font/vladimir-webfont.eot');
+   src: url('../font/vladimir-webfont.eot?#iefix') format('eot'), 
+        url('../font/vladimir-webfont.woff') format('woff'), 
+        url('../font/vladimir-webfont.ttf') format('truetype'), 
+        url('../font/vladimir-webfont.svg') format('svg');
+}

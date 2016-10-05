@@ -1,0 +1,175 @@
+.top,
+#mainnav ul li ul,
+.slide-left h3.sub-title,
+.box-services:hover .icon,
+.box-services:hover a.read-more,
+.logo-client .bx-controls .icons-angle-right,
+.logo-client .bx-controls .icons-angle-left,
+.footer-social,
+.socials, 
+.footer-copy,
+.switcher-container,
+.slide3 .slide-right h3.sub-title,
+.box-services.box-fill .icon,
+.box-services.box-fill a.read-more,
+.price-table .price,
+button.btn-colores,
+.box-services .icon.left,
+.roll-row.services-posts a.more,
+.toggle .toggle-title:before,
+.testimonial-slide.large .owl-next,
+.testimonial-slide.large .owl-prev,
+.progress-animate,
+.tabs .menu-tab li a:hover,
+.footer-social,
+.roll-row .menu-items,
+.roll-row.portfolio-posts button.load:hover,
+.roll-row.portfolio-posts .portfolio-direc,
+.roll-row .share-post,
+.categories .cate-items a:hover,
+.roll-row .meta-bottom a.read-more:hover,
+.flexslider .flex-direction-nav .flex-next:hover,
+.flexslider .flex-direction-nav .flex-prev:hover,
+.widget-testimonial .bx-controls .icons-angle-right:hover,
+.widget-testimonial .bx-controls .icons-angle-left:hover,
+.widget-flickr .flickr-controls .flickr-next:hover,
+.widget-flickr .flickr-controls .flickr-prev:hover,
+.roll-row .pagging .page-next:hover,
+.roll-row .pagging .page-prev:hover,
+.roll-row .pagging .page-next:hover + span,
+.roll-row .pagging .page-prev:hover + span,
+.comment-form .submit-wrap input.btn-colores,
+.contact-form .submit-wrap input.btn-colores,
+.menu2 > li:before,
+.box-services:hover .icon.circle {
+    background-color: #d11212;
+}
+
+blockquote.block-left {
+  border-left-color: #d11212;
+}
+
+.head-slide .control button,
+.box-services .icon,
+.box-services:hover a.read-more,
+.roll-row .post-overlay,
+.testimonial-detail .img-user img,
+.box-services.box-fill a.read-more,
+.newsflash a:hover,
+.experts a:hover,
+.roll-row .meta-bottom a.read-more:hover,
+.roll-row article.post:hover .featured-post img,
+.flickr-photos img:hover,
+.post .avatar img,
+.box-services:hover .icon.circle.left,
+.roll-row article.post .gallery .carousel .post-hover:hover img {
+    border-color: #d11212;
+}
+
+a,
+.head-slide .control button,
+.head-slide .control p.sub-title,
+.roll-row .titlebox .maintitle .important,
+.purchase.white .purchase-left span.content,
+.roll-row .about-teams .about-info p.about-regency,
+.widget-lastest-post p:hover,
+.switcher-container a,
+.footer-menu ul li a:hover,
+.gallery .carousel ul.flex-direction-nav li a:hover i,
+.purchase .purchase-right a,
+.newsflash a:hover,
+.experts a:hover,
+.widget-twitter ul.tweet_list a:hover,
+.widget-recent-post p:hover,
+.widget-recent-post span.date,
+.widget-testimonial span.author,
+.widget-categories a:hover,
+.contact-info i.icon,
+.roll-row.portfolio-posts .slider .slides .about-info span.note a:hover,
+.titlebox .maintitle .important,
+.gallery .sub-carousel ul.flex-direction-nav li:hover a i {
+    color: #d11212;
+}
+
+.testimonial-detail blockquote {
+    border-left-color: #d11212;
+}
+
+.testimonial-detail:hover .img-user img,
+.box-services.box-fill a.read-more:hover,
+.roll-row .menu-items .text-search:focus {
+    border-color: #c11717;
+}
+
+.footer-social .socials li a,
+.socials li a,
+.roll-row .menu-items ul.left-items li a  {
+    background-color: #c11717;
+}
+
+.footer-social .socials li a.active, 
+.footer-social .socials li a:hover,
+.box-services.box-fill a.read-more:hover,
+.socials li a.active, 
+.socials li a:hover,
+.roll-row .menu-items ul.left-items li a.active,
+.portfolio-projects .portfolio-direc a,
+.roll-row .menu-items .button-search,
+.widget-search .button-search,
+.roll-row .menu-items ul.left-items li a:hover {
+    background-color: #ab1919;
+}
+
+.menu > li:hover:before {
+    border-color: #d11212 transparent transparent transparent;
+}
+
+.box-services .icon.plane:before {
+    background: url('../../images/red/plane.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.polaroid:before {
+    background: url('../../images/red/polaroid.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.lamp:before {
+    background: url('../../images/red/lamp.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.icloud-up:before {
+    background: url('../../images/red/icloud-up.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.graph-chart:before {
+    background: url('../../images/red/graph-chart.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.file:before {
+    background: url('../../images/red/file.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.paint-brush:before {
+    background: url('../../images/red/paint-brush.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.wordpress:before {
+    background: url('../../images/red/wordpress.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.paint-brush:before {
+    background: url('../../images/red/paint-brush.svg') no-repeat;
+    background-size: 50px 45px;
+}
+
+.box-services .icon.locked:before {
+    background: url('../../images/red/locked.svg') no-repeat;
+    background-size: 50px 45px;
+}
